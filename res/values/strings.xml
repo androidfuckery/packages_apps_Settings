@@ -9939,6 +9939,9 @@
     <!-- Summary of Notification Assistant provided features [CHAR LIMIT=NONE]-->
     <string name="notification_assistant_summary">Get suggested actions, replies, and more</string>
 
+    <!-- Title for Heads-up notifications setting  [CHAR LIMIT=30]-->
+    <string name="heads_up_notifications">Heads-up notifications</string>
+
     <!-- Label for no NotificationAssistantService [CHAR_LIMIT=NONE] -->
     <string name="no_notification_assistant">None</string>
 
