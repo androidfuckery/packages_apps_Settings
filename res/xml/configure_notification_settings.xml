@@ -226,5 +226,11 @@
             android:summary="@string/notification_assistant_summary"
             settings:controller="com.android.settings.notification.NotificationAssistantPreferenceController"/>
 
+        <SwitchPreferenceCompat
+             android:key="notification_headsups"
+             android:order="30"
+             android:title="@string/heads_up_notifications"
+             settings:controller="com.android.settings.notification.HeadsUpPreferenceController"/>
+
     </PreferenceCategory>
 </PreferenceScreen>
